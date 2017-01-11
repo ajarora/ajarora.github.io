@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>ajarora</title>
- <link href="http://ajarora.com/atom.xml" rel="self"/>
- <link href="http://ajarora.com/"/>
- <updated>2017-01-11T15:42:22-05:00</updated>
- <id>http://ajarora.com</id>
+ <link href="http://ajarora.github.io/atom.xml" rel="self"/>
+ <link href="http://ajarora.github.io/"/>
+ <updated>2017-01-11T15:52:33-05:00</updated>
+ <id>http://ajarora.github.io</id>
  <author>
    <name>AJ Arora</name>
    <email>aj@ajarora.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Introduction</title>
-   <link href="http://ajarora.com/2017/01/09/introduction/"/>
+   <link href="http://ajarora.github.io/2017/01/09/introduction/"/>
    <updated>2017-01-09T00:00:00-05:00</updated>
-   <id>http://ajarora.com/2017/01/09/introduction</id>
+   <id>http://ajarora.github.io/2017/01/09/introduction</id>
    <content type="html">&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel’s supporting cast is a man by the name of Mr. Poole, Dr. Jekyll’s loyal butler.&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -62,9 +62,9 @@
  
  <entry>
    <title>Example content</title>
-   <link href="http://ajarora.com/2016/01/02/example-content/"/>
+   <link href="http://ajarora.github.io/2016/01/02/example-content/"/>
    <updated>2016-01-02T00:00:00-05:00</updated>
-   <id>http://ajarora.com/2016/01/02/example-content</id>
+   <id>http://ajarora.github.io/2016/01/02/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
@@ -241,9 +241,9 @@
  
  <entry>
    <title>What&#39;s Jekyll?</title>
-   <link href="http://ajarora.com/2016/01/01/whats-jekyll/"/>
+   <link href="http://ajarora.github.io/2016/01/01/whats-jekyll/"/>
    <updated>2016-01-01T00:00:00-05:00</updated>
-   <id>http://ajarora.com/2016/01/01/whats-jekyll</id>
+   <id>http://ajarora.github.io/2016/01/01/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
