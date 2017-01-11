@@ -1,0 +1,33 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               ajarora
+description:
+tagline:             Welcome to my sandbox.
+url:                 http://ajarora.com
+paginate:            5
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              AJ Arora
+  url:               http://ajarora.com
+  email:             aj@ajarora.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/ajarora/web
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
