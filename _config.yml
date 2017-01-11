@@ -5,7 +5,7 @@ permalink:           pretty
 title:               ajarora
 description:
 tagline:             Welcome to my sandbox.
-url:                 http://ajarora.com
+url:                 http://ajarora.github.io
 paginate:            5
 baseurl:             ""
 
@@ -26,6 +26,7 @@ author:
 version:             2.0.0
 github:
   repo:              https://github.com/ajarora/web
+# analytics_id:              UA-...
 
 # Gems
 gems:
