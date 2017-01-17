@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns="http://ns.adobe.com/f4m/1.0">
+	<id>
+		tnte_hd/events/_definst_/tnte_hd
+	</id>
+	<mimeType>
+		
+	</mimeType>
+	<streamType>
+		live
+	</streamType>
+	<duration>
+		0
+	</duration>
+	<bootstrapInfo
+		 profile="named"
+		 url="../../../streams/tnte_hd/events/_definst_/tnte_hd/tnte_hd_5_259.bootstrap"
+		 id="bootstrap640"
+	>
+	</bootstrapInfo>
+	<drmAdditionalHeader
+		 url="../../../streams/tnte_hd/events/_definst_/tnte_hd/tnte_hd_5_259.drmmeta"
+		 drmContentId="tnte_hd/events/_definst_/tnte_hd"
+		 id="drmMetadata4586"
+	>
+	</drmAdditionalHeader>
+	<media
+		 streamId="tnte_hd_5_259"
+		 url="../../../streams/tnte_hd/events/_definst_/tnte_hd/tnte_hd_5_259"
+		 bootstrapInfoId="bootstrap640"
+		 drmAdditionalHeaderId="drmMetadata4586"
+	>
+		<metadata>
+			AgAKb25NZXRhRGF0YQgAAAAAAAhkdXJhdGlvbgBAGB64UeuFHwAFd2lkdGgAQJQAAAAAAAAABmhlaWdodABAhoAAAAAAAAAMdmlkZW9jb2RlY2lkAgAESDI2NAAMYXVkaW9jb2RlY2lkAgAEbXA0YQAKYXZjcHJvZmlsZQBAU0AAAAAAAAAIYXZjbGV2ZWwAQD8AAAAAAAAABmFhY2FvdAAAAAAAAAAAAAAOdmlkZW9mcmFtZXJhdGUA//gAAAAAAAAAD2F1ZGlvc2FtcGxlcmF0ZQBA1YiAAAAAAAANYXVkaW9jaGFubmVscwBAAAAAAAAAAAAJdHJhY2tpbmZvCgAAAAMDAAZsZW5ndGgAAAAAAAAAAAAACXRpbWVzY2FsZQBAj0AAAAAAAAAIbGFuZ3VhZ2UCAANlbmcAAAkDAAZsZW5ndGgAAAAAAAAAAAAACXRpbWVzY2FsZQBAj0AAAAAAAAAIbGFuZ3VhZ2UCAANlbmcAAAkDAAZsZW5ndGgAAAAAAAAAAAAACXRpbWVzY2FsZQBAj0AAAAAAAAAIbGFuZ3VhZ2UCAANlbmcAAAkAAAk=
+		</metadata>
+	</media>
+</manifest>
